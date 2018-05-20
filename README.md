@@ -1,10 +1,7 @@
-# Waves Explorer Lite
+# Agate Block Explorer
 
-Waves Testnet Blockchain Explorer
+Agate Testnet Blockchain Explorer
 
-# Demo
-
-Demo is available on http://testnet.wavesexplorer.com
 
 # Setup
 
