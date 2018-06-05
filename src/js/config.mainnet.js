@@ -2,27 +2,27 @@
     'use strict';
 
     angular.module('web').constant('appConfig', {
-        apiDomain: 'https://nodes.wavesnodes.com',
+        apiDomain: 'http://localhost:6761',
         blockchainName: 'Mainnet',
         title: 'Waves Explorer',
         nodes: [{
-            url: 'https://nodes.wavesnodes.com',
-            maintainer: 'Waves'
+            url: '',
+            maintainer: 'Will be added'
         }],
         peerExplorer: {
-            url: 'https://testnet.wavesexplorer.com',
-            title: 'TESTNET Explorer'
+            url: '',
+            title: 'Will be added'
         },
         wallet: {
-            url: 'https://beta.wavesplatform.com',
-            title: 'Wallet'
+            url: '',
+            title: 'Will be added'
         }
     });
 
     angular.module('web').constant('constants.network', {
         NETWORK_NAME: 'mainnet', // 'devnet', 'testnet', 'mainnet'
         ADDRESS_VERSION: 1,
-        NETWORK_CODE: 'W',
+        NETWORK_CODE: 'S',
         INITIAL_NONCE: 0
     });
 })();
