@@ -20,7 +20,7 @@
     "js-sha3": "^0.5.2",
     "restangular": "^1.6.1",
     "underscore": "^1.8.3",
-    "wavesplatform-core-js": "https://github.com/AgateChain/Agate.core.js#master"
+    "wavesplatform-core-js": "git+https://github.com/AgateChain/Agate.core.js#master"
   },
   "devDependencies": {
     "del": "^3.0.0",
