@@ -2,12 +2,20 @@
     'use strict';
 
     angular.module('web').constant('appConfig', {
-        apiDomain: 'http://localhost:6761',
+        apiDomain: 'https://api.agate.services',
         blockchainName: 'Mainnet',
         title: 'Waves Explorer',
         nodes: [{
-            url: '',
-            maintainer: 'Will be added'
+            url: 'https://api.agate.services',
+            maintainer: 'Api 1 Agate'
+        },
+        {
+            url: 'https://api2.agate.services',
+            maintainer: 'Api 2 Agate'
+        },
+        {
+            url: 'https://api3.agate.services',
+            maintainer: 'Api 3 Agate'
         }],
         peerExplorer: {
             url: '',
