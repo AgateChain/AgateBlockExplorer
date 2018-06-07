@@ -4,7 +4,7 @@
     angular.module('web').constant('appConfig', {
         apiDomain: 'https://api.agate.services',
         blockchainName: 'Mainnet',
-        title: 'Waves Explorer',
+        title: 'Agate Explorer',
         nodes: [{
             url: 'https://api.agate.services',
             maintainer: 'Api 1 Agate'
