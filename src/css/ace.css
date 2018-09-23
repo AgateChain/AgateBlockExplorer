@@ -1132,7 +1132,7 @@ pre.prettyprint {
   -webkit-box-shadow: none;
   box-shadow: none;
   min-height: 45px;
-  background: #438EB9;
+  background: #002233;
 }
 .navbar .navbar-text,
 .navbar .navbar-link {
@@ -1924,7 +1924,7 @@ pre.prettyprint {
     background-color: transparent;
   }
   .navbar.navbar-collapse:before {
-    background: #438EB9;
+    background: #002233;
     content: "";
     display: block;
     position: absolute;
@@ -1936,7 +1936,7 @@ pre.prettyprint {
     border-radius: inherit;
   }
   .navbar.navbar-collapse .navbar-container {
-    background-color: #438EB9;
+    background-color: #002233;
   }
 }
 .navbar .navbar-toggle {
@@ -9575,7 +9575,7 @@ textarea.input-transparent:focus,
 }
 .accordion-style2.panel-group .panel-heading .accordion-toggle.collapsed:hover {
   background-color: #F6F6F6;
-  color: #438EB9;
+  color: #002233;
   text-decoration: none;
 }
 .accordion-style2.panel-group .panel-body,
@@ -12692,7 +12692,7 @@ ul.attachment-list > li {
 }
 .attached-file:hover {
   text-decoration: none;
-  color: #438EB9;
+  color: #002233;
 }
 .attached-file:hover .attached-name {
   color: #2283C5;

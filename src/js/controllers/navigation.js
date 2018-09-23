@@ -9,12 +9,12 @@
             var menuItems = [];
             menuItems.push({
                 url: 'blocks',
-                title: 'Blocks',
+                title: 'Forged blocks',
                 icon: 'glyphicon glyphicon-th-list'
             });
             menuItems.push({
                 url: 'peers',
-                title: 'Peers',
+                title: 'Connected nodes',
                 icon: 'glyphicon glyphicon-transfer'
             });
             if (config.faucet) {
@@ -26,7 +26,7 @@
             }
             menuItems.push({
                 url: 'nodes',
-                title: 'Nodes',
+                title: 'Base nodes',
                 icon: 'glyphicon glyphicon-tasks'
             });
             nav.menuItems = menuItems;
