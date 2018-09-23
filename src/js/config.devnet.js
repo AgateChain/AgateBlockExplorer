@@ -12,15 +12,7 @@
             {url: 'http://52.28.115.7:6869', maintainer: 'Waves', showAsLink: true},
             {url: 'http://13.229.61.140:6869', maintainer: 'Waves', showAsLink: true},
             {url: 'http://52.192.190.54:6869', maintainer: 'Waves', showAsLink: true}
-        ],
-        peerExplorer: {
-            url: 'http://devnet.wavesexplorer.com',
-            title: 'Devnet Explorer'
-        },
-        wallet: {
-            url: 'http://testnet.waveswallet.io',
-            title: 'Wallet'
-        }
+        ]
     });
 
 

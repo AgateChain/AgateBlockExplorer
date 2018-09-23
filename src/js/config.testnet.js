@@ -14,14 +14,6 @@
         faucet: {
             url: 'https://testnode1.wavesnodes.com/faucet',
             captchaKey: '6Le9hSgUAAAAAAtIe04SrgDy23PsBZOazfb-li66'
-        },
-        peerExplorer: {
-            url: 'https://wavesexplorer.com',
-            title: 'MAINNET Explorer'
-        },
-        wallet: {
-            url: 'https://testnet.waveswallet.io',
-            title: 'Wallet'
         }
     });
 

@@ -31,7 +31,6 @@
             });
             nav.menuItems = menuItems;
 
-            nav.wallet = config.wallet;
-            nav.peerExplorer = config.peerExplorer;
+
         }]);
 })();

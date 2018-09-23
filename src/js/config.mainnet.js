@@ -17,14 +17,6 @@
             url: 'https://api3.agate.services',
             maintainer: 'Api 3 Agate'
         }],
-        peerExplorer: {
-            url: '',
-            title: 'Will be added'
-        },
-        wallet: {
-            url: '',
-            title: 'Will be added'
-        }
     });
 
     angular.module('web').constant('constants.network', {

@@ -9649,7 +9649,7 @@ td .lbl:only-child {
   vertical-align: top;
 }
 .table-header {
-  background-color: #307ECC;
+  background-color: #002233;
   color: #FFF;
   font-size: 14px;
   line-height: 38px;
@@ -9986,7 +9986,7 @@ tr.detail-row > td {
 .widget-color-dark > .widget-header > .widget-toolbar > [data-action="settings"],
 .widget-box > .widget-header > .widget-toolbar > .widget-menu > [data-action="settings"],
 .widget-color-dark > .widget-header > .widget-toolbar > .widget-menu > [data-action="settings"] {
-  color: #99CADB;
+  color: #002233;
 }
 .widget-box > .widget-header > .widget-toolbar > [data-action="reload"],
 .widget-color-dark > .widget-header > .widget-toolbar > [data-action="reload"],
@@ -10011,25 +10011,25 @@ tr.detail-row > td {
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .widget-color-blue {
-  border-color: #307ECC;
+  border-color: #002233;
 }
 .widget-color-blue > .widget-header {
-  background: #307ECC;
-  border-color: #307ECC;
+  background: #002233;
+  border-color: #002233;
 }
 .widget-color-blue2 {
-  border-color: #5090C1;
+  border-color: #002233;
 }
 .widget-color-blue2 > .widget-header {
-  background: #5090C1;
-  border-color: #5090C1;
+  background: #002233;
+  border-color: #002233;
 }
 .widget-color-blue3 {
-  border-color: #6379AA;
+  border-color: #002233;
 }
 .widget-color-blue3 > .widget-header {
-  background: #6379AA;
-  border-color: #6379AA;
+  background: #002233;
+  border-color: #002233;
 }
 .widget-color-green {
   border-color: #82AF6F;
@@ -10136,7 +10136,7 @@ tr.detail-row > td {
 }
 [class*="widget-color-"] > .widget-header > .widget-toolbar > [data-action="settings"],
 [class*="widget-color-"] > .widget-header > .widget-toolbar > .widget-menu > [data-action="settings"] {
-  color: #D3E4ED;
+  color: #002233;
 }
 [class*="widget-color-"] > .widget-header > .widget-toolbar > [data-action="reload"],
 [class*="widget-color-"] > .widget-header > .widget-toolbar > .widget-menu > [data-action="reload"] {
@@ -10156,7 +10156,7 @@ tr.detail-row > td {
 }
 .widget-color-orange > .widget-header > .widget-toolbar > [data-action="settings"],
 .widget-color-orange > .widget-header > .widget-toolbar > .widget-menu > [data-action="settings"] {
-  color: #559AAB;
+  color: #002233;
 }
 .widget-color-orange > .widget-header > .widget-toolbar > [data-action="reload"],
 .widget-color-orange > .widget-header > .widget-toolbar > .widget-menu > [data-action="reload"] {
@@ -11502,7 +11502,7 @@ tr.detail-row > td {
   color: #CF7;
 }
 .login-box .toolbar {
-  background: #5090C1;
+  background: #002233;
   border-top: 2px solid #597597;
 }
 .login-box .toolbar > div {
@@ -11555,7 +11555,7 @@ tr.detail-row > td {
   display: inline-block;
   background: #F7F7F7;
   padding: 0 8px;
-  color: #5090C1;
+  color: #002233;
   font-size: 13px;
 }
 .social-or-login:before {
